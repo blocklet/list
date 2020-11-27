@@ -17,3 +17,14 @@
 - [Wallet Demo](https://github.com/ArcBlock/www-wallet)
 - [Uniswap Blocklet](https://github.com/blocklet/uniswap-deployer)
 - [DID KYC](https://github.com/ArcBlock/did-kyc)
+
+## Demo
+
+- [Vue Vite Demo](https://github.com/blocklet/vue-vite-demo)
+- [Minimalist Html Demo](https://github.com/blocklet/minimalist-html-demo)
+- [Nextjs Demo](https://github.com/blocklet/nextjs-demo)
+- [Express Demo](https://github.com/blocklet/express-demo)
+- [React Demo](https://github.com/blocklet/react-demo)
+- [Zero Demo](https://github.com/blocklet/zero-demo)
+- [Kitchen Sink Demo](https://github.com/blocklet/kitchen-sink-demo)
+- [Gatsby Demo](https://github.com/blocklet/gatsby-demo)
