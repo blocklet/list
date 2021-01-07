@@ -5,7 +5,7 @@
 - [Blockchain Manager](https://github.com/blocklet/blockchain-manager)
 - [Blocklet Registry](https://github.com/ArcBlock/blocklets/)
 - [Wallet Playground](https://github.com/blocklet/wallet-playground)
-- [Blockchain Boarding Gate](https://github.com/blocklet/blockchain-boarding-gate])
+- [Blockchain Boarding Gate](https://github.com/blocklet/blockchain-boarding-gate)
 - [ABT Node Launcher](https://github.com/blocklet/abt-node-launcher)
 - [Static Demo](https://github.com/blocklet/html-2048-sample)
 - [DID Connect](https://github.com/ArcBlock/did-connect)
